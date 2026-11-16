@@ -1,10 +1,10 @@
-# Hi, I'm Natan (@KIPEN66) 👋
+# Hi, I'm Natan (@KIPEN66) ??
 
 Software Developer specializing in **backend systems**, **asynchronous architectures**, and **developer tooling**. Passionate about clean code, test-driven development (TDD), and building resilient distributed services.
 
 ---
 
-### 🛠️ Core Tech Stack & Tools
+### ??? Core Tech Stack & Tools
 
 - **Languages:** Python (3.10+), TypeScript, JavaScript, SQL, Bash
 - **Frameworks & Libs:** FastAPI, Pydantic v2, Node.js, Express, Uvicorn, Asyncio
@@ -13,16 +13,17 @@ Software Developer specializing in **backend systems**, **asynchronous architect
 
 ---
 
-### 🚀 Featured Open Source Projects
+### ?? Featured Open Source Projects
 
 | Repository | Tech Stack | Description |
 |---|---|---|
 | [**pulse-queue-api**](https://github.com/KIPEN66/pulse-queue-api) | Python, FastAPI, Asyncio, Pytest, Docker | High-performance asynchronous background task queue and telemetry ingestion service with priority heaps and worker concurrency control. |
 | [**mocksmith-cli**](https://github.com/KIPEN66/mocksmith-cli) | TypeScript, Node.js, Vitest, Commander | Zero-config developer CLI tool and middleware engine to mock REST APIs with simulated latency and runtime schema validation. |
+| [**flow-guard**](https://github.com/KIPEN66/flow-guard) | Python, Asyncio, Pytest, Resilience | Zero-dependency async fault tolerance and traffic control toolkit providing Token Bucket rate limiting and Circuit Breakers. |
 
 ---
 
-### 💡 Engineering Principles
+### ?? Engineering Principles
 
 - **Test-Driven & Verifiable:** Every service and feature is backed by isolated unit and integration test suites before hitting production.
 - **Async-First & Resilient:** Emphasizing non-blocking I/O, backpressure protection, and sensible retry policies.
